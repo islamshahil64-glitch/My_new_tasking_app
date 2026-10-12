@@ -1,0 +1,6 @@
+{
+  "name": "TaskEarn",
+  "description": "Micro task earning app with daily rewards, task center, wallet withdrawals, and quizzes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
